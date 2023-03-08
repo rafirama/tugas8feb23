@@ -1,0 +1,26 @@
+
+ body{
+    background-color:#4eceb3;
+}
+.card{
+    box-shadow: 4 4px 8px 8 rgba(0, 0, 0, 0.2);
+    padding:   20px;
+    text-align: center;
+    background-color:#6b1bdb;
+}
+
+table{
+    align:center;
+    margin-left:30px;
+    margin-right:30px;
+    background-color: white;
+} 
+ .tambah{
+    font-size:20px;
+}
+.container{
+    align:center;
+    margin-left:300px;
+    margin-top:50px;
+    margin-right:300px;
+} 
